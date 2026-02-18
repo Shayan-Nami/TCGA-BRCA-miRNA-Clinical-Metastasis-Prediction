@@ -72,14 +72,12 @@ TCGA-BRCA-miRNA-Analysis/
 └── README.md                   # Documentation      
 
 ---
-## ⚠️ Note on Academic Integrity
-This project is part of an ongoing academic research paper. The code is shared for **portfolio and evaluation purposes only**.
-Unauthorized reproduction or publication of the methodology/results is strictly prohibited until the official paper is published.
+
 
 ⚠️ Disclaimer
 This project is conducted under the supervision of Khayyam AI Innovation Lab for academic research purposes. Results are computational and not for clinical diagnosis.
 
-👤 Author
-Shayan Abdollahi Nami
+
+
 
 
